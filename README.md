@@ -10,6 +10,7 @@ and then make use of `pkgs.rust-apps.{app}`.
 ## Application bundled
 
 | Name | Description |
+|------|-------------|
 | [release-plz] | release manager for rust |
 
 [release-plz]: https://github.com/MarcoIeni/release-plz
